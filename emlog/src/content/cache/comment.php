@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:0;a:7:{s:3:"cid";s:1:"1";s:3:"gid";s:1:"2";s:4:"name";s:6:"佳星";s:4:"date";s:10:"1441631175";s:4:"page";i:1;s:4:"mail";s:16:"starccgs@163.com";s:7:"content";s:15:"第一篇log。";}}
